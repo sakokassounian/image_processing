@@ -1,7 +1,14 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import cv2
+import gray
+import RGB
 
-img =cv2.imread('image.jpg',0)
-plt.imshow(img,'gray')
-plt.show()
+
+gray.load_gray_image()
+RGB.load_RGB_image()
+
+
+
+
+
