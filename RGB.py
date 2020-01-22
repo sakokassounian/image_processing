@@ -8,3 +8,8 @@ def load_RGB_image():
     plt.show()
 
 
+print(img)
+    
+
+
+
