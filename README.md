@@ -1,4 +1,4 @@
-# image processing and Learning how to use Git
+# Image processing and Learning how to use Git
 Specific solutions for document detection. I will describe the problems of Canny edge detection. I will also use this repository as material to learn how to use Git. I followed the instructions of https://medium.com/swlh/what-do-i-need-to-know-about-git-5017bde0b572
 
 ## Images are unique
