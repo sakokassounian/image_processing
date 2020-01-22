@@ -1,2 +1,2 @@
 # image processing
-Global solution for scanning driver licences 
+Specific solutions for document detection
