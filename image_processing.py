@@ -1,7 +1,11 @@
-import RGB
+
 import gray
+import RGB
 
 
-RGB.load_RGB_image()
 gray.load_gray_image()
+RGB.load_RGB_image()
+
+
+
 
