@@ -9,4 +9,4 @@ Every gray image has a unique:
 4. Signal to Noise ratio (SNR) which is based on foreground and background selections
 
 ## Code implementation
-The code will be implemented in Python for ease of visualization. I will use some standard images and convert them into integer based 8bit images. 
+The code will be implemented in Python for ease of visualization. I will use some standard images and convert them into a single matrix integer baseded 8bit images. Usually to convert from RGB 3-channel based to single channel based gray scale, we take each pixel from the 3 channels and calculate there average. 
